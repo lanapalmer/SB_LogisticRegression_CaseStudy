@@ -1,2 +1,2 @@
 # SB_LogisticRegression_CaseStudy
-Case Study on Logistic Regressionfor Springboard's Data Science program
+Case Study on Logistic Regression for Springboard's Data Science program
